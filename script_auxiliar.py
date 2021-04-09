@@ -1,0 +1,4 @@
+
+
+def salute():
+	print("Helloooooo")
